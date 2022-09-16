@@ -42,7 +42,8 @@
         "period": 3,
         "condition": 3,
         "others": "本组定期矩形线下会议，需要长三角城市的同学加入哦",
-        "max": 5
+        "max": 5,
+        "current": 3
       },
       {
         "id": 1,
@@ -57,7 +58,8 @@
         "period": 2,
         "condition": 3,
         "others": "暂无其他说明！",
-        "max": 6
+        "max": 6,
+        "current": 6
       }
   ]
 }
