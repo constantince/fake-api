@@ -1,6 +1,6 @@
 {
-    "status": 200,
-    "resultCode": "200",
+    "status": "ok",
+    "resultCode": 200,
     "success": true,
     "data": {
         "resources": [
