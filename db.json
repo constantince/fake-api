@@ -61,59 +61,6 @@
         "max": 6,
         "current": 6
       }
-  ],
-  "resources": [
-    {
-      "id": 0,
-      "resourceName": "SPI(Smart Passive Income)",
-      "resourceShortDesc": "著名的podcast界面，教别人怎么发展自己的线上业务的",
-      "resourceLongDesc": "创始人是Pat Fly，这个界面创立的时间比较早了，目前在英文市场中的地位非常高，几乎是所有做线上业务的人必备的一个网站。里面的很多知识，告诉我们自媒体的一些坑。",
-      "type": 0,
-      "createDate": "2022-01-21",
-      "createAvatar": ""
-    },
-    {
-      "id": 1,
-      "resourceName": "SPI2(Smart Passive Income)",
-      "resourceShortDesc": "著名的podcast界面，教别人怎么发展自己的线上业务的2",
-      "resourceLongDesc": "创始人是Pat Fly，这个界面创立的时间比较早了，目前在英文市场中的地位非常高，几乎是所有做线上业务的人必备的一个网站。里面的很多知识，告诉我们自媒体的一些坑。2",
-      "type": 0,
-      "createDate": "2022-01-21",
-      "createAvatar": ""
-    }
-  ],
-  "resourceDetails": [
-    {
-    "id": 0,
-    "resourceName": "SPI(Smart Passive Income)",
-    "resourceShortDesc": "著名的podcast界面，教别人怎么发展自己的线上业务的",
-    "resourceLongDesc": "创始人是Pat Fly，这个界面创立的时间比较早了，目前在英文市场中的地位非常高，几乎是所有做线上业务的人必备的一个网站。里面的很多知识，告诉我们自媒体的一些坑。",
-    "createDate": "2022-01-21",
-    "type": 0,
-    "createAvatar": "",
-    "language": "en",
-    "link": "",
-    "comments": [{
-      "content": "这个我知道，很早之前有朋友推荐过，没想到又在这里看到了",
-      "date": "2022-01-30",
-      "creator": "John constantince"
-    }]
-  },
-  {
-    "id": 1,
-    "resourceName": "SPI2(Smart Passive Income)",
-    "resourceShortDesc": "著名的podcast界面，教别人怎么发展自己的线上业务的2",
-    "resourceLongDesc": "创始人是Pat Fly，这个界面创立的时间比较早了，目前在英文市场中的地位非常高，几乎是所有做线上业务的人必备的一个网站。里面的很多知识，告诉我们自媒体的一些坑。2",
-    "createDate": "2022-01-21",
-    "type": 0,
-    "createAvatar": "",
-    "language": "en",
-    "link": "",
-    "comments": [{
-      "content": "这个我知道，很早之前有朋友推荐过，没想到又在这里看到了2",
-      "date": "2022-01-30",
-      "creator": "John constantince2"
-    }]
-  }]
+  ]
 
 }
